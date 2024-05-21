@@ -1,0 +1,10 @@
+1,John Q.,10978.95,1
+2,Jake V.,10077.97,1
+3,Paul T.,9582.94,1
+4,Sam K.,8447.97,1
+5,Daniel Y.,8056.97,1
+6,Peter W.,8452.94,1
+7,Jeffrey P.,7104.00,1
+8,Nicholas S.,8103.94,1
+9,Kyle M.,7057.97,1
+10,[EXPUNGED]Robert K.,6135.00,0
